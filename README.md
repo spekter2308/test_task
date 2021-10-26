@@ -26,7 +26,8 @@ Product data located in the '`app\MockData'. Product structure looks like
     'stockQty' => 5,          // for stock products
     'related_code' => 'B'     // for related products
     ]];
-?>```
+?>
+```
 
 ## Functionality
 Classes with main functionality located in the 'app\Services' folder.
